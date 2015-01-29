@@ -1820,7 +1820,7 @@ pre code {
 }
 
 pre, code {
-    font-family: Consolas, 'Liberation Mono', Courier, monospace;
+    font-family: 'Source Code Pro', monospace;
     color: #333;
     background: #f8f8f8;
     -moz-border-radius: 3px;
