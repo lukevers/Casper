@@ -1053,6 +1053,18 @@ body:not(.post-template) .post-title {
     min-height: 180px;
 }
 
+.post-head.main-header .center {
+	display: table;
+	width: 100%;
+	height: 100%;
+}
+
+.post-head.main-header .center h1.post-title {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+
 .no-cover.post-head.main-header {
     height: 85px;
     min-height: 0;
