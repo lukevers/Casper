@@ -1063,6 +1063,7 @@ body:not(.post-template) .post-title {
 	display: table-cell;
 	vertical-align: middle;
 	text-align: center;
+	color: #EFEFEF;
 }
 
 .no-cover.post-head.main-header {
