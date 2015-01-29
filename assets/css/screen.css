@@ -1064,6 +1064,7 @@ body:not(.post-template) .post-title {
 	vertical-align: middle;
 	text-align: center;
 	color: #EFEFEF;
+	text-shadow: 1px 1px 1px #333;
 }
 
 .no-cover.post-head.main-header {
