@@ -1878,3 +1878,9 @@ pre .regexp {
     color: #009926;
 }
    
+/* twitter */
+
+iframe.twitter-tweet {
+    width: 100% !important;	
+}
+}
